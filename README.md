@@ -33,7 +33,7 @@ Onus is a Flutter-based service booking platform that connects customers with se
 - **Backend**: Firebase
   - Firebase Authentication
   - Cloud Firestore
-  - Firebase Storage
+  - Cloudinary Storage
 
 ## Getting Started
 
